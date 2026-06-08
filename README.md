@@ -1,5 +1,7 @@
 # AnimatedContainer Demo
 
+**In-class presentation date: 8th June 2026**
+
 This is my first proper attempt at a Flutter app, specifically tackling the
 `AnimatedContainer` widget. It was honestly a lot of fun to build, and somewhere along
 the way it clicked for me what this thing actually is: it's basically a container that
